@@ -1,8 +1,5 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# mcp3008_lm35.py - read an LM35 on CH0 of an MCP3008 on a Raspberry Pi
-# mostly nicked from
-#  http://jeremyblythe.blogspot.ca/2012/09/raspberry-pi-hardware-spi-analog-inputs.html
  
 import spidev
 import time
